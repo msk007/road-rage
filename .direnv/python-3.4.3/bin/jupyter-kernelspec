@@ -1,0 +1,8 @@
+#!/Users/FANTICKLE/documents/assignments/road-rage/.direnv/python-3.4.3/bin/python3
+from jupyter_client.kernelspecapp import KernelSpecApp
+
+def main():
+    KernelSpecApp.launch_instance()
+
+if __name__ == '__main__':
+    main()

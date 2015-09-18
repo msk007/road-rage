@@ -1,0 +1,8 @@
+#!/Users/FANTICKLE/documents/assignments/road-rage/.direnv/python-3.4.3/bin/python3
+
+def main():
+    from nbformat.sign import TrustNotebookApp
+    TrustNotebookApp.launch_instance()
+
+if __name__ == '__main__':
+    main()

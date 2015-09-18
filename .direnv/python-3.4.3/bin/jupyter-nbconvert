@@ -1,0 +1,6 @@
+#!/Users/FANTICKLE/documents/assignments/road-rage/.direnv/python-3.4.3/bin/python3
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

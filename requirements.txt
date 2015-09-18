@@ -1,0 +1,4 @@
+import ipython[all]
+import numpy
+import matplotlib
+import statistics as st
