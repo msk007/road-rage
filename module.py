@@ -3,8 +3,9 @@ import matplotlib.pyplot as plt
 import numpy
 import statistics as st
 import random
+import matplotlib
 
-%matplotlib inline
+
 
 class Car():
 # """
